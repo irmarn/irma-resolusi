@@ -1,0 +1,4 @@
+Rencana Belajar Ngoding
+- Belajar GIT & GITHUB
+- Belajar Laravel 8
+- Belajar CSS
