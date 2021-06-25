@@ -1,6 +1,6 @@
 Rencana Belajar Ngoding
 - Belajar GIT & GITHUB
-- Belajar Laravel 8
+- Belajar CodeIgniter4
 - Belajar CSS
   + CSS Dasar
   + CSS layouting
